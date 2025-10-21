@@ -3,26 +3,34 @@ The Student Management System is a Core Java console-based application that allo
 
 ✅ Features :
 
-👤 Student
+• Student
 
 1.Register & Login
+
 2.View Profile
+
 3.Update Profile
 
-🔐 Admin
+• Admin
 
 1.Admin Login
+
 2.View All Students
+
 3.Search Student
+
 4.Update & Delete Student
+
 5.Sort by ID or Name
 
-📎 Summary :
+• Summary :
 
 This project helps beginners learn:
 
 ✅ OOP Concepts
+
 ✅ CRUD Operations in Java
+
 ✅ Arrays & Menu-driven Programs
 
 
